@@ -1,0 +1,1 @@
+{"description":"The message a smart fridge sends its owner at 3am, for make.fun","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-deysumbrella-the-3am-fridge-text-4c3e721d","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
